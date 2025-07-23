@@ -1,5 +1,12 @@
-This is a resource pack for the mod [Embers Rekindled](https://modrinth.com/mod/embers) that retextures some blocks and items from the mod to (in my opinion) improve them and make them fit better with Minecraft's modern textures. I plan to eventually rexture most of the sprites from the mod as I personally see fitting. If I do not believe I can improve the texture, I'll leave it as it is.
+### Description
+This is a resource pack for the mod [Embers Rekindled](https://modrinth.com/mod/embers) that retextures some blocks and items from the mod to improve them in accordance with my personal tastes and make them fit better with Minecraft's modern textures. I plan to redo most of the textures in the mod, however there is no estimate for when this will be completed.
 
-This pack currently only supports the 1.20.1 version though I may add support for 1.12.2 in the future.
+This pack currently only supports the 1.20.1 version of the mod. Support may be added for the 1.12.2 version.
 
-**Credit for the original textures and the mod go to [RCXcrafter](https://modrinth.com/user/RCXcrafter).**
+### Terms
+ - You may modify this pack as you wish for personal use only.
+ - Do not claim this pack as your own.
+ - Do not reupload this pack to any other sites or platforms.
+
+### Credits
+Embers Rekindled is a mod by [Elucent](https://www.curseforge.com/members/elucent_/projects). The original textures for the mod were created by them. The mod is currently maintained by [RCXcrafter](https://modrinth.com/user/RCXcrafter).
