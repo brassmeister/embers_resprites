@@ -8,3 +8,5 @@ v1.0
   - Ember Grit, Ember Shard, Ember Crystal
 v1.1
   Changed pack.png
+v1.1.1
+  Fixed scale of Large Archaic Bricks
