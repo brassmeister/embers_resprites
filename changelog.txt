@@ -6,3 +6,5 @@ v1.0
   - Ancient Codex, Ancient Motive Core, Archaic Brick
   - Caminite Blend, Caminite Brick
   - Ember Grit, Ember Shard, Ember Crystal
+v1.1
+  Changed pack.png
