@@ -1,0 +1,14 @@
+v1.0
+  Blocks:
+  - Archaic Bricks, Archaic Edge, Large Archaic Bricks, Archaic Light, Archaic Tile
+  - Caminite Bricks, Large Caminite Bricks, Caminite Tiles, Large Caminite Tile
+  Items:
+  - Ancient Codex, Ancient Motive Core, Archaic Brick
+  - Caminite Blend, Caminite Brick
+  - Ember Grit, Ember Shard, Ember Crystal
+
+v1.1
+  Changed pack.png
+
+v1.1.1
+  Fixed scale of Large Archaic Bricks
